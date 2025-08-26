@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic python developer from Hanoi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giahuycoder&label=Profile%20views&color=0e75b6&style=flat" alt="giahuycoder" /> </p>
-
+<h3>I am a young man, full of enthusiasm and have a serious attitude in work and life. I always spend time upgrading myself and my skills. I hope to have the opportunity to do an internship to improve my skills, learn and develop. With a high sense of responsibility, I hope to contribute my efforts to the company and complete the assigned tasks well. Thank you!</h3>
 - 🔭 I’m currently working on [student-management-django](https://github.com/GiaHuyCoder/student-management-django)
 
 - 🌱 I’m currently learning **Aptech Computer Education**
